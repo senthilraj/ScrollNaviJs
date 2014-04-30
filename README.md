@@ -20,7 +20,7 @@ How to use
 </script>
 ```
 
-3)put html code in body tag like below:
+- 3)put html code in body tag like below:
 ```html
 <div id="nav">
             <div class="container">
@@ -36,12 +36,12 @@ How to use
         <div id="section3">Section3</div>
 ```        
 
-4)also put css fiel
+- 4)also put css fiel
 ```html
 <link rel="stylesheet" type="text/css" href="css/scrollnavi.css">
 ```
 
-if you want to set scroll speed, then call method like below:
+- if you want to set scroll speed, then call method like below:
 ```html
 $("#nav").scroll_navi(1500);
 ```
