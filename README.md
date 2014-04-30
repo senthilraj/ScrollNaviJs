@@ -10,7 +10,7 @@ How to use
 1)Include jquery plugin and ScrollNaviJs
 2)call scrollnavi function with navigation ID
 
-
+```html
 <script src="js/jquery.js"></script>
 <script src="js/scroll_navi.js"></script>
 <script>
@@ -18,10 +18,10 @@ How to use
     $("#nav").scroll_navi();
   });
 </script>
-
+```
 
 3)put html code in body tag like below:
-
+```html
 <div id="nav">
             <div class="container">
             <ul>
@@ -34,13 +34,14 @@ How to use
         <div id="section1">Section1</div>
         <div id="section2">Section2</div>
         <div id="section3">Section3</div>
-        
+```        
 
 4)also put css fiel
-
+```html
 <link rel="stylesheet" type="text/css" href="css/scrollnavi.css">
-
+```
 
 if you want to set scroll speed, then call method like below:
-
+```html
 $("#nav").scroll_navi(1500);
+```
