@@ -7,8 +7,8 @@ ScrollNaviJs is jquery plugin for fix navigation on top after scroll second sect
 How to use
 ==========
 
-1)Include jquery plugin and ScrollNaviJs
-2)call scrollnavi function with navigation ID
+- 1)Include jquery plugin and ScrollNaviJs
+- 2)call scrollnavi function with navigation ID
 
 ```html
 <script src="js/jquery.js"></script>
