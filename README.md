@@ -45,3 +45,13 @@ How to use
 ```html
 $("#nav").scroll_navi(1500);
 ```
+
+## Download
+
+### Download [ScrollNaviJs zip archive](https://github.com/senthilraj/ScrollNaviJs/archive/master.zip)
+
+
+About me
+========
+ I am senthil and I am 22 years old designer and developer specialised in jquery. I am doing rich websites and mobile app using in phonegap, jquery  moblie, feel free to contact me Mail: senthil2rajan@gmail.com
+
