@@ -1,0 +1,26 @@
+/* 
+    Name: ScrollNavi.js css file
+    Author: senthilkumar
+    Website: http://senthildesigner.co.nr/
+    mail: senthil2rajan@gmail.com
+*/
+
+            *{ margin: 0; padding: 0;}
+            
+            body{
+                //overflow: hidden;
+                color:#fff;
+                font-size: 24px;
+                font-family: arial;
+                text-align: center;
+            }
+            
+            #nav{ width: 100%; line-height:  60px; background: #ff6633; font-size: 14px; color: #fff; position: absolute; top:550px; left: 0px;}
+            a{ color: #fff; text-decoration: none;}
+            ul{ list-style: none;}
+            li{ float: left; margin: 0 20px;}
+            .container{ margin: 0 auto; width: 980px;}
+            #section1{ line-height: 600px; background: #059ee4; width: 100%; float: left;  overflow: auto;}
+            #section2{ line-height: 600px; background: #a4a8ab; width: 100%; float: left;  overflow: auto;}
+            #section3{ line-height: 600px; background: #38383a; width: 100%; float: left;  overflow: auto;}
+
