@@ -43,7 +43,7 @@ How to use
 
 - if you want to set scroll speed, then call method like below:
 ```html
-$("#nav").scroll_navi(1500);
+$("#nav").scroll_navi({speed:1500});
 ```
 
 ## Download
