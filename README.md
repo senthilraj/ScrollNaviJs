@@ -46,6 +46,11 @@ How to use
 $("#nav").scroll_navi({speed:1500});
 ```
 
+## Demo
+
+### Demo [Click here to see Demo of ScrollNaviJs](http://senthilraj.github.io/ScrollNaviJs/)
+
+
 ## Download
 
 ### Download [ScrollNaviJs zip archive](https://github.com/senthilraj/ScrollNaviJs/archive/master.zip)
