@@ -15,7 +15,7 @@
                 text-align: center;
             }
             
-            #nav{ width: 100%; line-height:  60px; background: #ff6633; font-size: 14px; color: #fff; position: absolute; top:550px; left: 0px;}
+            #nav{ width: 100%; line-height:  60px; height:60px; background: #ff6633; font-size: 14px; color: #fff; position: absolute; top:550px; left: 0px;}
             a{ color: #fff; text-decoration: none;}
             ul{ list-style: none;}
             li{ float: left; margin: 0 20px;}
@@ -24,3 +24,8 @@
             #section2{ line-height: 600px; background: #a4a8ab; width: 100%; float: left;  overflow: auto;}
             #section3{ line-height: 600px; background: #38383a; width: 100%; float: left;  overflow: auto;}
 
+
+@media only screen 
+and (min-width : 979px) {
+.container{ margin: 0 auto; width: auto;}
+}
