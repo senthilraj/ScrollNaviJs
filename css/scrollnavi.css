@@ -26,6 +26,6 @@
 
 
 @media only screen 
-and (min-width : 979px) {
-.container{ margin: 0 auto; width: auto;}
+and (max-width : 979px) {
+.container{ margin: 0 auto; width: 100%;}
 }
