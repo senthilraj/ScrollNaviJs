@@ -25,6 +25,6 @@
             #section3{ line-height: 600px; background: #38383a; width: 100%; float: left;  overflow: auto;}
 
 @media only screen 
-and (min-width : 979px) {
-.container{ margin: 0 auto; width: 100%; float:left;}
+and (max-width : 979px) {
+.container{ margin: 0 auto; width: 100%;}
 }
