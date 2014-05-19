@@ -28,6 +28,7 @@ How to use
                 <li><a href="#section1">Section1</a></li>
                 <li><a href="#section2">Section2</a></li>
                 <li><a href="#section3">Section3</a></li>
+                <li><a href="https://github.com/senthilraj" data-outerpage="true">Section3</a></li>
             </ul>
             </div>
 </div>
@@ -40,12 +41,17 @@ How to use
 ```html
 <link rel="stylesheet" type="text/css" href="css/scrollnavi.css">
 ```
+###Options 
 
 - if you want to set scroll speed, then call method like below:
 ```html
 $("#nav").scroll_navi({speed:1500});
 ```
 
+- if you want to set link for another page, use data-outerpage attribute and put as 'true' like below:
+```html
+  <li><a href="https://github.com/senthilraj" data-outerpage="true">Section3</a></li>
+```
 ## Demo
 
 ###[Click to see Demo](http://senthilraj.github.io/ScrollNaviJs/)
