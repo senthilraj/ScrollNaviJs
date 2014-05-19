@@ -64,6 +64,14 @@ $("#nav").scroll_navi({speed:1500});
 
 About me
 ========
- I am senthil and I am 22 years old designer and developer specialised in jquery. I am doing rich websites and creating mobile apps using in phonegap, jquery  moblie, feel free to contact me Mail: senthil2rajan@gmail.com
+ I am senthil and I am 22 years old designer and developer specialised in jquery. I am doing rich websites and creating mobile apps using in phonegap, jquery  moblie, any doubts or help feel free to contact me Mail: senthil2rajan@gmail.com
 
 Website: http://www.senthildesigner.co.nr/
+
+Add your Website
+================
+
+if you are using our plugin, we will add in here as plugin users with website link,
+so kindly send me your website link to this MailId : senthil2rajan@gmail.com 
+
+Thanks
