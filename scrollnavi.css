@@ -22,7 +22,7 @@
             .container{ margin: 0 auto; width: 980px;}
             #section1{ height: 600px; background: #059ee4; width: 100%; float: left;  overflow: auto;}
             .title{ margin-top:230px; margin-bottom:30px; display:none; font-weight:100;}
-			p{ display:none; font-size:21px; width: 740px; margin: 0 auto; text-align: left;}
+			p{ display:none; font-size:21px; width: 60%; margin: 0 auto; text-align: left;}
             #section2{ line-height: 600px; background: #a4a8ab; width: 100%; float: left;  overflow: auto;}
             #section3{ line-height: 600px; background: #38383a; width: 100%; float: left;  overflow: auto;}
 
