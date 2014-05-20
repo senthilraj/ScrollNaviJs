@@ -50,7 +50,7 @@ $("#nav").scroll_navi({speed:1500});
 
 - if you want to set link for another page, use data-outerpage attribute and put as 'true' like below:
 ```html
-  <a href="https://github.com/senthilraj" data-outerpage="true">About senthil</a>
+  <a href="https://github.com/senthilraj/ScrollNaviJs#about-me" data-outerpage="true">About Developer</a>
 ```
 ## Demo
 
