@@ -28,7 +28,7 @@ How to use
                 <li><a href="#section1">Section1</a></li>
                 <li><a href="#section2">Section2</a></li>
                 <li><a href="#section3">Section3</a></li>
-                <li><a href="https://github.com/senthilraj" data-outerpage="true">About senthil</a></li>
+                <li><a href="https://github.com/senthilraj/ScrollNaviJs#about-me" data-outerpage="true">About Developer</a></li>
             </ul>
             </div>
 </div>
